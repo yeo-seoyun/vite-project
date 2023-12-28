@@ -2,8 +2,7 @@
   padding: 2rem;
   text-align: center;
   margin: 0 auto;
-  position:relative
-  
+  position:relative;
 }
 
 .container h2{
@@ -34,6 +33,10 @@
 .visual{
   max-height: 70vh;
   overflow: hidden;
+}
+
+.visual > img {
+  margin: auto;
 }
 
 .userName {
